@@ -90,8 +90,10 @@ $ns at 8.0 "finish"
 $ns run
 
 
-## 📊 MODEL OUTPUT
-<img src="C:\Users\Latha\OneDrive\Pictures\Screenshots\code block 2.png" alt="Code block 2" width="200"/>
+## 📊 OUTPUT
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/89e80b1e-39cc-414a-a6d4-dc567aeb9f53" />
+
+
 
 
 ## 📝 MARK ALLOCATION
